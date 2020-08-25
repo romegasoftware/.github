@@ -1,5 +1,5 @@
 {
     "name": "Vapor Staging CI Workflow",
     "description": "For sites with Nova admin panels, this will automatically deploy to staging.",
-    "iconName": "time",
+    "iconName": "time"
 }
